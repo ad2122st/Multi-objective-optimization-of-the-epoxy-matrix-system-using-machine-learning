@@ -4,19 +4,19 @@
 
 # Explanation of sample code
 
-* Regression *
+*Regression*
 末尾が_regression.pyのファイル
 
 組成から物性予測モデルを構築する。
 
 分布図とMAE、RMSEでモデルの評価する。
 
-* Optimize *
+*Optimize*
 末尾が_optimize.pyのファイル
 
 Optunaを用いて各回帰手法のハイパーパラメータの最適化を行う。
 
-* Prediction *
+*Prediction*
 末尾が_prediction.pyのファイル
 
 未知のサンプルから物性を予測する。
@@ -24,7 +24,7 @@ Optunaを用いて各回帰手法のハイパーパラメータの最適化を�
 # Appendix
 AutoMLの一つTPOTを用いて物性予測モデルを構築する。
 
-# requirement
+# Requirement
 * scikit-learn 0.24.2
 * tensorflow 2.4.0
 * optuna 2.8.0
