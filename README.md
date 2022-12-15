@@ -9,15 +9,13 @@
 
 # _Prediction.py
 
+# Appendix
 
 # requirement
 * scikit-learn 0.24.2
 * tensorflow 2.4.0
 * optuna 2.8.0
 * TPOT 0.11.7
-
-
-# Appendix
 
 # Author
 
