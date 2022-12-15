@@ -1,26 +1,24 @@
 # Multi-objective optimization of the epoxy matrix system using machine learning
 
-論文の趣旨
-
 # Regression
-末尾が_regression.pyのファイル
+Files ending in _regression.py
 
-組成から物性予測モデルを構築する。
+Build a regression model to predict physical properties from composition.
 
-分布図とMAE、RMSEでモデルの評価する。
+Evaluate the model with distribution plots and MAE and RMSE.
 
 # Optimize
-末尾が_optimize.pyのファイル
+Files ending in _optimize.py
 
-Optunaを用いて各回帰手法のハイパーパラメータの最適化を行う。
+Optimize the hyperparameters of each regression method using Optuna.
 
 # Prediction
-末尾が_prediction.pyのファイル
+Files ending in _prediction.py
 
-未知のサンプルから物性を予測する。
+Predicting physical properties from unknown samples.
 
 # Appendix
-AutoMLの一つTPOTを用いて物性予測モデルを構築する。
+Build a physical property prediction model using TPOT, one of AutoML.
 
 # Requirement
 * scikit-learn 0.24.2
@@ -29,6 +27,6 @@ AutoMLの一つTPOTを用いて物性予測モデルを構築する。
 * TPOT 0.11.7
 
 # Author
-* 作成者
-* 所属
-* eメール
+* Shigeru Taniguchi, Shogo Tamaki
+* National Institute of Technology, Kitakyushu College Kitakyushu, JAPAN
+* taniguchi.shigeru@kct.ac.jp
