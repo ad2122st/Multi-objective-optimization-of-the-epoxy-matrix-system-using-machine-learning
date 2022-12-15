@@ -3,11 +3,11 @@
 論文の趣旨の説明
 
 
-# Regression
+# _Regression.py
 
-# Optimize
+# _Optimize.py
 
-# Prediction
+# _Prediction.py
 
 
 # requirement
