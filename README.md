@@ -3,11 +3,14 @@
 論文の趣旨の説明
 
 
-# _Regression.py
+# Regression
+回帰モデルの構築とモデルをグラフとMAE、RMSEで評価。
 
-# _Optimize.py
+# Optimize
+Optunaを用いて各回帰手法のハイパーパラメータの最適化を行う。
 
-# _Prediction.py
+# Prediction
+未知のサンプルから物性を予測する。
 
 # Appendix
 
@@ -18,7 +21,6 @@
 * TPOT 0.11.7
 
 # Author
-
 * 作成者
 * 所属
 * eメール
