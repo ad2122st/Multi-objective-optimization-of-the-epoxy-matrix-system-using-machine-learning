@@ -4,15 +4,18 @@
 
 # Regression
 末尾が_regression.pyのファイル
+
 組成から物性予測モデルを構築する。
 分布図とMAE、RMSEでモデルの評価する。
 
 # Optimize
 末尾が_optimize.pyのファイル
+
 Optunaを用いて各回帰手法のハイパーパラメータの最適化を行う。
 
 # Prediction
 末尾が_prediction.pyのファイル
+
 未知のサンプルから物性を予測する。
 
 # Appendix
