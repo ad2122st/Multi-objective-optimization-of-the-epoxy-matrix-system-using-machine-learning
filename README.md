@@ -2,11 +2,12 @@
 
 論文の趣旨の説明
 
-*regression*
+# Regression
 
-*prediction*
+# Optimize
 
-*optimize*
+# Predistion
+
 
 requirement
 
