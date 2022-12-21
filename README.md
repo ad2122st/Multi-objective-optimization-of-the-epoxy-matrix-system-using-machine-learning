@@ -24,7 +24,7 @@ Aritificial Neural Network (ANN) Models
 >It was composed with the code based on Keras API as an [example](https://www.tensorflow.org/tutorials/keras/regression).
 
 Traditional Machine Learning Models
->Partial Least Squares (PLS), Support Vector Regression (SVR),Random Forest (RF), Kernel Ridge Regression(KRR) are provided.
+>Partial Least Squares (PLS), Support Vector Regression (SVR), Random Forest (RF), Kernel Ridge Regression(KRR) are provided.
 
 
 # Appendix
