@@ -19,6 +19,9 @@ Optimization code
 Prediction code
 >The py file with _presdction at the end is the code to predict the unknown properties. The difference from regression code is ratio of trainig data to testing data, and it has no test data. It is able to predict the properties by entering untested samples.
 
+PTOT code
+>The py file with TPOT at the top is the code to predict the properties by using [Tree-based Pipeline Optimization Tool (TPOT)](https://academic.oup.com/bioinformatics/article/36/1/250/5511404), one of Automated machine learning (AutoML). TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
+
 ## Machine Learning Models
 Aritificial Neural Network (ANN) Models
 >It was composed with the code based on Keras API as an [example](https://www.tensorflow.org/tutorials/keras/regression).
@@ -26,6 +29,3 @@ Aritificial Neural Network (ANN) Models
 Traditional Machine Learning Models
 >Partial Least Squares (PLS), Support Vector Regression (SVR), Random Forest (RF), Kernel Ridge Regression(KRR) are provided.
 
-
-## Appendix
-The py file with TPOT at the top is the code to predict the properties by using [Tree-based Pipeline Optimization Tool (TPOT)](https://academic.oup.com/bioinformatics/article/36/1/250/5511404), one of Automated machine learning (AutoML). TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
