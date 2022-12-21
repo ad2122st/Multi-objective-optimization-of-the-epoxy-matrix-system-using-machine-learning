@@ -1,5 +1,12 @@
 # Multi-objective optimization of the epoxy matrix system using machine learning
 
+# Table of contents
+* Multi-objective optimization of the epoxy matrix system using machine learning
+* [code](https://github.com/ad2122st/Multi-objective-optimization-of-the-epoxy-matrix-system-using-machine-learning/edit/main/README.md)
+* Appendix
+* reauirement
+* AUthor
+
 # Regression
 Files ending in _regression.py
 
