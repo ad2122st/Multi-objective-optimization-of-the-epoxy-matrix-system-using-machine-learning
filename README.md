@@ -29,4 +29,3 @@ Build a physical property prediction model using TPOT, one of AutoML.
 # Author
 * Shigeru Taniguchi, Shogo Tamaki
 * National Institute of Technology, Kitakyushu College Kitakyushu, JAPAN
-* taniguchi.shigeru@kct.ac.jp
