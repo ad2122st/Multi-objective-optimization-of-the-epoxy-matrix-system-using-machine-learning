@@ -20,10 +20,10 @@ Prediction code
 >The py file with _presdction at the end is the code to predict the unknown properties. The difference from regression code is ratio of trainig data to testing data, and it has no test data. It is able to predict the properties by entering untested samples.
 
 # Machine Learning Models
-Aritificial Neural Network (ANN) Models
+_Aritificial Neural Network (ANN) Models_
   It was composed with the code based on Keras API as an [example](https://www.tensorflow.org/tutorials/keras/regression).
 
-Traditional Machine Learning Models
+_Traditional Machine Learning Models_
   Partial Least Squares (PLS), Support Vector Regression (SVR),Random Forest (RF), Kernel Ridge Regression(KRR) are provided.
 
 
