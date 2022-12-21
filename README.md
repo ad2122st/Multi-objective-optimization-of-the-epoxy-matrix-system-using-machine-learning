@@ -1,4 +1,5 @@
 # Multi-objective optimization of the epoxy matrix system using machine learning
+This page describes the code used in the analysis in Paper "Multi-objective optimization of the epoxy matrix system using machine learning".
 
 # Table of contents
 * [Multi-objective optimization of the epoxy matrix system using machine learning](https://github.com/ad2122st/Multi-objective-optimization-of-the-epoxy-matrix-system-using-machine-learning/blob/main/README.md#multi-objective-optimization-of-the-epoxy-matrix-system-using-machine-learning)
