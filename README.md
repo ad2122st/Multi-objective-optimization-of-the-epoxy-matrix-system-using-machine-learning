@@ -1,5 +1,5 @@
 # Multi-objective optimization of the epoxy matrix system using machine learning
-This page describes the code used in the analysis in Paper "Multi-objective optimization of the epoxy matrix system using machine learning".
+This module contains the code used in our survey paper: Multi-objective optimization of the epoxy matrix system using machine learning. It has been submitted by [Results in Materials](https://www.sciencedirect.com/journal/results-in-materials).
 
 # Table of contents
 * [Multi-objective optimization of the epoxy matrix system using machine learning](https://github.com/ad2122st/Multi-objective-optimization-of-the-epoxy-matrix-system-using-machine-learning/blob/main/README.md#multi-objective-optimization-of-the-epoxy-matrix-system-using-machine-learning)
@@ -20,14 +20,14 @@ Prediction code
 >The py file with _presdction at the end is the code to predict the unknown properties. The difference from regression code is ratio of trainig data to testing data, and it has no test data. It is able to predict the properties by entering untested samples.
 
 # Machine Learning Models
-Deep Leaning Models
->
+Aritificial Neural Network (ANN) Models
+>Keras API based 
 
 Traditional Machine Learning Models
 >
 
 # Appendix
-Build a physical property prediction model using TPOT, one of AutoML.
+The py file with TPOT at the top is the code to predict the properties byusing Tree-based Pipeline Optimization Tool (TPOT), one of Automated machine learning (AutoML). TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 
 # Requirement
 * scikit-learn 0.24.2
