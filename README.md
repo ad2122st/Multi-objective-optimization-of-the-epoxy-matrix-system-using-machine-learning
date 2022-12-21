@@ -19,7 +19,7 @@ Optimization code
 Prediction code
 >The py file with _presdction at the end is the code to predict the unknown properties. The difference from regression code is ratio of trainig data to testing data, and it has no test data. It is able to predict the properties by entering untested samples.
 
-PTOT code
+TPOT code
 >The py file with TPOT at the top is the code to predict the properties by using [Tree-based Pipeline Optimization Tool (TPOT)](https://academic.oup.com/bioinformatics/article/36/1/250/5511404), one of Automated machine learning (AutoML). TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 
 ## Machine Learning Models
