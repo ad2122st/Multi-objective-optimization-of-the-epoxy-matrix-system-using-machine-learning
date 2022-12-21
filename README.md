@@ -2,26 +2,26 @@
 
 # Table of contents
 * [Multi-objective optimization of the epoxy matrix system using machine learning](https://github.com/ad2122st/Multi-objective-optimization-of-the-epoxy-matrix-system-using-machine-learning/blob/main/README.md#multi-objective-optimization-of-the-epoxy-matrix-system-using-machine-learning)
-* [code](https://github.com/ad2122st/Multi-objective-optimization-of-the-epoxy-matrix-system-using-machine-learning/blob/main/README.md#code)
+* [Code](https://github.com/ad2122st/Multi-objective-optimization-of-the-epoxy-matrix-system-using-machine-learning/blob/main/README.md#code)
 * [Appendix](https://github.com/ad2122st/Multi-objective-optimization-of-the-epoxy-matrix-system-using-machine-learning/blob/main/README.md#appendix)
-* reauirement
-* AUthor
+* [Requirement](https://github.com/ad2122st/Multi-objective-optimization-of-the-epoxy-matrix-system-using-machine-learning/blob/main/README.md#requirement)
+* [Author](https://github.com/ad2122st/Multi-objective-optimization-of-the-epoxy-matrix-system-using-machine-learning/blob/main/README.md#author)
 
 # Code
 
-# Regression
+* Regression
 Files ending in _regression.py
 
 Build a regression model to predict physical properties from composition.
 
 Evaluate the model with distribution plots and MAE and RMSE.
 
-# Optimize
+* Optimize
 Files ending in _optimize.py
 
 Optimize the hyperparameters of each regression method using Optuna.
 
-# Prediction
+* Prediction
 Files ending in _prediction.py
 
 Predicting physical properties from unknown samples.
