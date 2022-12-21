@@ -9,12 +9,10 @@
 
 # Code
 
-* Regression
-Files ending in _regression.py
-
-Build a regression model to predict physical properties from composition.
-
-Evaluate the model with distribution plots and MAE and RMSE.
+Regression
+>Files ending in _regression.py
+>Build a regression model to predict physical properties from composition.
+>Evaluate the model with distribution plots and MAE and RMSE.
 
 * Optimize
 Files ending in _optimize.py
