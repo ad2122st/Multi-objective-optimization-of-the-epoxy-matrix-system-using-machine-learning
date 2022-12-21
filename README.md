@@ -9,20 +9,21 @@
 
 # Code
 
-Regression
->Files ending in _regression.py
->Build a regression model to predict physical properties from composition.
->Evaluate the model with distribution plots and MAE and RMSE.
+Regression code
+>The py file with _regression at the end is the code to build the regression model to precict property from composition. The ratio of the taraining data to testing data is 8 to 2. You can choose a regression method from the four methods PLS, SVR, RF, and ANN. And the built model is evaluated by distribution plots and MAE and RMSE.
 
-* Optimize
-Files ending in _optimize.py
+Optimization code
+>The py file with _optimize at the end is the code to optimize the hyperparameters of each regression method. We used Optuna for optimizing the hyperparameters.
 
-Optimize the hyperparameters of each regression method using Optuna.
+Prediction code
+>The py file with _presdction at the end is the code to predict the unknown properties. The difference from regression code is ratio of trainig data to testing data, and it has no test data. It is able to predict the properties by entering untested samples.
 
-* Prediction
-Files ending in _prediction.py
+# Machine Learning Models
+Deep Leaning Models
+>
 
-Predicting physical properties from unknown samples.
+Traditional Machine Learning Models
+>
 
 # Appendix
 Build a physical property prediction model using TPOT, one of AutoML.
