@@ -27,14 +27,4 @@ Traditional Machine Learning Models
 >
 
 # Appendix
-The py file with TPOT at the top is the code to predict the properties byusing Tree-based Pipeline Optimization Tool (TPOT), one of Automated machine learning (AutoML). TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
-
-# Requirement
-* scikit-learn 0.24.2
-* tensorflow 2.4.0
-* optuna 2.8.0
-* TPOT 0.11.7
-
-# Author
-* Shigeru Taniguchi, Shogo Tamaki
-* National Institute of Technology, Kitakyushu College Kitakyushu, JAPAN
+The py file with TPOT at the top is the code to predict the properties by using [Tree-based Pipeline Optimization Tool (TPOT)](https://academic.oup.com/bioinformatics/article/36/1/250/5511404), one of Automated machine learning (AutoML). TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
