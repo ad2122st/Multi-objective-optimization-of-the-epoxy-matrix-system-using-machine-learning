@@ -12,7 +12,7 @@ Regression code
 The code with a "regression" at the end of the filename build the regression model to predict the material properties. The ratio of the training data to testing data is 8 to 2. You can choose a regression method from the five methods PLS, SVR, RF, KRR, and ANN. And the built model is evaluated by scatter plots and MAE and RMSE.
 
 Optimization code
->The code with a "optimization" at the end of the filename optimize the hyperparameters of each regression method by using [Optuna](https://dl.acm.org/doi/10.1145/3292500.3330701).
+>The code with a "optimization" at the end of the filename optimize the hyperparameters of each regression models by using [Optuna](https://dl.acm.org/doi/10.1145/3292500.3330701).
 
 
 Prediction code
