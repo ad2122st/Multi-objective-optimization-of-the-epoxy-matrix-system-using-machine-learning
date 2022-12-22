@@ -23,7 +23,7 @@ TPOT code
 
 ## Machine Learning Models
 Artificial Neural Network (ANN) Models
->It was composed with the code based on Keras API as an [example](https://www.tensorflow.org/tutorials/keras/regression).
+>It was composed with the code based on [Keras API](https://www.tensorflow.org/tutorials/keras/regression).
 
 Traditional Machine Learning Models
 >Partial Least Squares (PLS), Support Vector Regression (SVR), Random Forest (RF), and Kernel Ridge Regression(KRR) are provided on [Scikit-learn](https://jmlr.csail.mit.edu/papers/v12/pedregosa11a.html).
