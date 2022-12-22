@@ -1,5 +1,5 @@
 # Multi-objective optimization of the epoxy matrix system using machine learning
-This module contains the code used in our survey paper: Multi-objective optimization of the epoxy matrix system using machine learning. It has been submitted to [Results in Materials](https://www.sciencedirect.com/journal/results-in-materials).
+This repository contains the code used in our survey paper: Multi-objective optimization of the epoxy matrix system using machine learning. It has been submitted to [Results in Materials](https://www.sciencedirect.com/journal/results-in-materials).
 
 ## Table of contents
 * [Multi-objective optimization of the epoxy matrix system using machine learning](https://github.com/ad2122st/Multi-objective-optimization-of-the-epoxy-matrix-system-using-machine-learning/blob/main/README.md#multi-objective-optimization-of-the-epoxy-matrix-system-using-machine-learning)
