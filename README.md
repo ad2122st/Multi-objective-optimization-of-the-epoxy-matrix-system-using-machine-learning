@@ -12,7 +12,7 @@ Regression code
 >The py file with "regression" at the end is the code to build the regression model to predict the material properties from the composition. The ratio of the training data to testing data is 8 to 2. You can choose a regression method from the five methods PLS, SVR, RF, KRR, and ANN. And the built model is evaluated by scatter plots and MAE and RMSE.
 
 Optimization code
->The py file with "optimize" at the end is the code to optimize the hyperparameters of each regression method by using [Optuna](https://dl.acm.org/doi/10.1145/3292500.3330701).
+>The py file with "optimization" at the end is the code to optimize the hyperparameters of each regression method by using [Optuna](https://dl.acm.org/doi/10.1145/3292500.3330701).
 
 Prediction code
 >The py file with "prediction" at the end of the code to predict the material properties. The dataset is not split into test
