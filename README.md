@@ -9,14 +9,14 @@ This repository contains the code used in our survey paper: Multi-objective opti
 ## Code
 
 Regression code
->The code with a "regression" at the end of the filename build the regression model to predict the material properties. The ratio of the training data to testing data is 8 to 2. You can choose a regression method from the five methods PLS, SVR, RF, KRR, and ANN. And the built model is evaluated by scatter plots and MAE and RMSE.
+>The code with a "regression" at the end of the filename builds the regression model to predict the material properties. The ratio of the training data to testing data is 8 to 2. You can choose a regression method from the five methods PLS, SVR, RF, KRR, and ANN. And the built model is evaluated by scatter plots and MAE and RMSE.
 
 Optimization code
->The code with a "optimization" at the end of the filename optimize the hyperparameters of each regression models by using [Optuna](https://dl.acm.org/doi/10.1145/3292500.3330701).
+>The code with an "optimization" at the end of the filename optimizes the hyperparameters of each regression model by using [Optuna](https://dl.acm.org/doi/10.1145/3292500.3330701).
 
 
 Prediction code
->The code with a "prediction" at the end of the filename predict the material properties. The dataset is not split into test
+>The code with a "prediction" at the end of the filename predicts the material properties. The dataset is not split into test
 and training data.
 
 TPOT code
@@ -28,4 +28,3 @@ Artificial Neural Network (ANN) Models
 
 Traditional Machine Learning Models
 >Partial Least Squares (PLS), Support Vector Regression (SVR), Random Forest (RF), and Kernel Ridge Regression(KRR) are provided on [Scikit-learn](https://jmlr.csail.mit.edu/papers/v12/pedregosa11a.html).
-
